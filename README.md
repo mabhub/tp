@@ -1,4 +1,8 @@
 g.naulin@web-6.fr
+r.moutte@web-6.fr
+
+
+>>>>>>> Added email
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Bonjour je suis anael.favre@gmail.com et je ne suis pas l'auteur de ce readme.
