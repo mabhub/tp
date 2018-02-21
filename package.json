@@ -1,6 +1,7 @@
 {
   "name": "tp",
-  "version": "0.1.0",
+  "version": "0.1.1",
+  "author": "super good prof and web6",
   "private": true,
   "dependencies": {
     "react": "^16.2.0",
